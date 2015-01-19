@@ -3,7 +3,7 @@
  * adison All Rights Reserved.
  */
 
-package adison.library;
+package com.adison.library;
 
 import android.content.Context;
 import android.content.res.TypedArray;

@@ -1,4 +1,4 @@
-package adison.library;
+package com.adison.library;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
